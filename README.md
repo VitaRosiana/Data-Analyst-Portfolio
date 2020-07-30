@@ -1,1 +1,1 @@
-The first project named 
+The first project named Googleappplaystore.ipynb uses a dataset from Kaggle. This projects mainly used Data Manipulation with pandas on loading, cleaning, and visualizing scraped Google Play Store data to understand the Android app market. This project helps me undertstanding how to pick up questions to gain insights in the data to devise strategies to drive growth and retention.
